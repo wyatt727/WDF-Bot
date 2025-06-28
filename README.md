@@ -60,8 +60,8 @@ flowchart TB
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/wdf-pipeline.git
-cd wdf-pipeline
+git clone https://github.com/wyatt727/WDF-Bot.git
+cd WDF-Bot
 ```
 
 2. Set up the environment:
