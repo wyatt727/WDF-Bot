@@ -116,7 +116,7 @@ Configuration is managed through environment variables or a `.env` file:
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| `WDF_LLM_MODELS__GEMINI` | Gemini model name | `gemini-cli` |
+| `WDF_LLM_MODELS__GEMINI` | Gemini model name | `gemini-2.5-pro` |
 | `WDF_LLM_MODELS__GEMMA` | Gemma model name | `gemma-3n` |
 | `WDF_LLM_MODELS__DEEPSEEK` | DeepSeek model name | `deepseek-r1` |
 
